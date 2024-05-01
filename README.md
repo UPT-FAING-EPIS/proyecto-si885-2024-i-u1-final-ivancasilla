@@ -5,9 +5,9 @@
 - Nina Vargas, Luigui  
 - Chambi Torres, Edgard
 - Chura Choque, Brant
-- Callía Maquera, Iván
+- Casilla Maquera, Tell Iván
 
-![Escudo PNP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/EscudoPNP.svg/1200px-EscudoPNP.svg.png)
+![image](https://github.com/UPT-FAING-EPIS/proyecto-si885-2024-i-u1-final-ivancasilla/assets/142366719/5f415515-a300-4466-8dc3-0c3f1274a124)
 
 ## VISIÓN
 Consolidarnos como el órgano de control de la Policía Nacional del Perú, que administre el comportamiento del personal policial con disciplina y autoridad de acuerdo a principios y valores éticos, que promuevan el cambio e inicie conseguir los objetivos estratégicos de la PNP y básicamente cumplir su misión constitucional.
