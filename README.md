@@ -1,10 +1,10 @@
 # POLICÍA NACIONAL DEL PERÚ - ÁREA DE INSPECTORÍA TACNA-AREQUIPA
 
 ## Nombre
-- Concho Vargas, Tomas
+- Condori Vargas, Tomas
 - Nina Vargas, Luigui  
-- Chambi Torres, Edgard
-- Chura Choque, Brant
+- Chambe Torres, Edgard
+- Chata Choque, Brant
 - Casilla Maquera, Tell Iván
 
 ![image](https://github.com/UPT-FAING-EPIS/proyecto-si885-2024-i-u1-final-ivancasilla/assets/142366719/5f415515-a300-4466-8dc3-0c3f1274a124)
